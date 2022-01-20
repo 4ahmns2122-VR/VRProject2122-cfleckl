@@ -33,7 +33,7 @@ public class Hebel : MonoBehaviour
         {
             HebelSwitch.transform.Rotate(0, 180, 0);
             print("123123123");
-        }
+        }  
         
     }
 

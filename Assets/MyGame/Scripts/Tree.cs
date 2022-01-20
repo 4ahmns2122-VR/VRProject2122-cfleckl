@@ -31,8 +31,8 @@ public class Tree : MonoBehaviour
 
         if (treeHits == 4)
         {
+            print("tree4");
             Destroy(Baum);
-            print("123123123");
         }
     }
 
