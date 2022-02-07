@@ -39,6 +39,6 @@ Lampen
 - Hintergrund sound
 
 ### Limitations/Problems: 
-Die VR Game Experience ist sehr schwer (Hartnäckig) auszuprobieren.
+Die VR Game Experience ist sehr schwer auszuprobieren. XR Device Simulation ist ultra hartnäckig.
 
 Copyright by cfleckl
