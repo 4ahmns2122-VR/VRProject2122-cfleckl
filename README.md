@@ -21,7 +21,24 @@ Screenshots (concept and experience), Video
 
 ### Third party material: 
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
+----------------------------
+### Minigame 1 
+3 Christbaumkugeln einsammeln (funktioniert, aber die Kugeln sind noch nicht auf der Map verteilt)
+
+### Minigame 2
+Habel aktivieren (funktioniert, man spawned noch dazu in einer Schlitten-Arena und fährt automatisch ins Ziel und respawned wieder auf der Maze Map (leider spawned man am Startpunkt))
+
+### Minigame 3
+Baumstamm kaputt schlagen, damit man weitergehen kann (funktioniert, aber der Baumstamm ist noch nicht im Maze versteckt)
+----------------------------
+### Graphics 
+Lampen
+
+### Audio
+- Christbaumkugel sound
+- Hintergrund sound
 
 ### Limitations/Problems: 
+Die VR Game Experience ist sehr schwer (Hartnäckig) auszuprobieren.
 
 Copyright by cfleckl
